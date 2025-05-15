@@ -1,0 +1,2 @@
+C:/Users/90545/Desktop/akilli_market_listem-main/android/app/.cxx/Debug/2c1t46o2/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/90545/Desktop/akilli_market_listem-main/android/app/.cxx/Debug/2c1t46o2/armeabi-v7a/CMakeFiles/rebuild_cache.dir
